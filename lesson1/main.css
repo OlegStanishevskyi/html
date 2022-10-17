@@ -1,0 +1,18 @@
+h1{
+    background:yellow;
+    text-align: center;
+    mso-generic-font-family: decorative;
+    font-family: "Arial Black";
+}
+p{
+    background: aquamarine;
+}
+h2{
+    background: aqua;
+}
+ul{
+    background: orange;
+}
+img{
+    align-content: center;
+}
