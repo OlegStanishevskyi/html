@@ -1,0 +1,33 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    width: 100%;
+    height: 800px;
+    background: cornflowerblue;
+    display: flex;
+}
+.block{
+    width: 100%;
+    height: 100%;
+    background: red;
+    justify-content: center;
+    align-items: center;
+}
+.head{
+    width: 100%;
+    height: 160px;
+    background: mediumspringgreen;
+}
+.body{
+    width: 100%;
+    height: 160px;
+    background: yellow;
+}
+.leg{
+    width: 100%;
+    height: 160px;
+    background: darkorchid;
+}
