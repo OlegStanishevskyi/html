@@ -1,11 +1,11 @@
 .bl1{
     width: 100%;
-    height: 400px;
+    height: 500px;
     background: cornflowerblue;
 }
 .father{
     width: 100%;
-    height: 400px;
+    height: 500px;
     background: salmon;
     display: flex;
 }
@@ -13,29 +13,32 @@
     width:65%;
     height:100%;
     background: yellow;
-    display: inline-flex;
-
 }
 .bl3{
     width:35%;
     height: 100%;
     background: red;
-    display: inline-flex;
 }
 @media screen and ( min-width: 0px) and (max-width: 600px){
 .bl1{
-    background: mediumspringgreen;
+    background: blueviolet;
+    height: 300px;
 }
-}
-
-@media screen and ( min-width: 0px) and (max-width: 600px){
     .bl2{
-        background: chocolate;
+        background: red;
+        width: 100%;
+        height: 600px;
+    }
+    .bl3{
+        background: green;
+        width: 100%;
+        height:300px;
+    }
+    .father{
+        flex-direction: column;
     }
 }
 
-@media screen and ( min-width: 0px) and (max-width: 600px){
-    .bl1{
-        background: blueviolet;
-    }
-}
+
+
+
