@@ -1,0 +1,22 @@
+.container{
+    width: 500px;
+    height: 700px;
+    background: silver;
+    display: flex;
+    flex-wrap: wrap;
+}
+.bl-A{
+    width: 100%;
+    height: 40%;
+    background: blueviolet;
+}
+.bl-B{
+    width: 70%;
+    height: 60%;
+    background: mediumspringgreen;
+}
+.bl-C{
+    width: 30%;
+    height: 60%;
+    background: red;
+}

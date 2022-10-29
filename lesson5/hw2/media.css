@@ -1,0 +1,14 @@
+@media screen and (max-width: 800px){
+    .bl-A{
+        height: 30%;
+    }
+    .bl-B{
+        width: 100%;
+    }
+    .bl-C{
+        width: 100%;
+        height: 35%;
+    }
+
+
+}

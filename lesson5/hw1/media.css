@@ -1,0 +1,14 @@
+@media screen and (max-width: 700px){
+    .bl-A{
+        background: #162029;
+    }
+    .bl-B{
+        background: red;
+        width: 100%;
+    }
+    .bl-C{
+        background: darkgoldenrod;
+        width: 100%;
+    }
+
+}
